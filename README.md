@@ -10,7 +10,7 @@ Features:
 * direct control of outputs
 * you can enter variable values (user input of many types: bool, byte, int, word, long, float, date, time)
 * rolling animation for long texts
-* LCD sleep or off mode on inactivity
+* LCD sleep or off-mode on inactivity
 * event recorder (memory for few events with timestamp, description and value)
 * date and time operations without real-time clock module using Arduino internal clock
 
