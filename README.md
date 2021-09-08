@@ -11,4 +11,7 @@ Features:
 * rolling animation for long texts
 * event recorder (memory for few events with timestamp, description and value)
 * date and time operations without real-time clock module using Arduino internal clock
+
+## Usage
+Check "alarm clock" and "irrigation" examples, read comments there.
  
