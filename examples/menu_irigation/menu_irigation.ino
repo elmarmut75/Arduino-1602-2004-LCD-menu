@@ -113,7 +113,7 @@ void setup() {
   pinMode(5, INPUT);   // pin 5 is used for buttons/rotary encoder input
   pinMode(valve1_pin, OUTPUT); // pin 11 is used for operating of valve 1
   pinMode(valve2_pin, OUTPUT); // pin 12 is used for operating of valve 2
-  pinMode(valve3_pin, OUTPUT); // pin 13 is used for operating of valve 2
+  pinMode(valve3_pin, OUTPUT); // pin 13 is used for operating of valve 3
 
 
   //-------------------------------------
