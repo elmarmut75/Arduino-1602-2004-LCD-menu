@@ -4,7 +4,7 @@ Arduino menu library for LCD displays 16x2 and 20x4.
 
 Features: 
 * multiple menu levels
-* control by 4 buttons (4xDI or 1xAI) or by rotary encoder (4xDI) 
+* control by 4 buttons keypads (4xDI or 1xAI) or by rotary encoder (4xDI) 
 * menu texts stored in program memory
 * displays actual state of inputs or variable values
 * direct control of outputs
