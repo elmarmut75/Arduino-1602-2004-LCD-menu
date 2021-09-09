@@ -1,6 +1,6 @@
 # Arduino-1602-2004-LCD-menu
 
-Arduino menu library for LCD displays 1602 and 2004.
+Arduino menu library for LCD displays 16x2 and 20x4.
 
 Features: 
 * multiple menu levels
