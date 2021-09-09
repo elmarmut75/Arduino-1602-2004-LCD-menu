@@ -15,5 +15,5 @@ Features:
 * date and time operations without real-time clock module using Arduino internal clock
 
 ## Usage
-Check "alarm clock" and "irrigation" examples, read comments there.
+Read Wiki or "alarm clock" and "irrigation" examples, read comments there.
  
